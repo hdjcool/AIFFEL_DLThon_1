@@ -1,6 +1,7 @@
 # AIFFEL_DLThon_1
 - 아이펠캠퍼스 리서치 온라인 10기 DLThon 1조 repository
 - https://www.kaggle.com/competitions/aiffel-dl-thon-online-10
+- https://docs.google.com/presentation/d/1LBH7XkCe1M8twiu_pcHzwiwn241L9kJ7hcTDStycQws/edit#slide=id.p
 ## Member
 |팀장|팀원|팀원|팀원|  
 |:----:|:---:|:-----:|:---:|  
